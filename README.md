@@ -1,11 +1,11 @@
 ### Hi there 👋, Hey I am Tanzil .
-#### A Frontend Web developer
-![A Frontend Web developer](https://github.com/tanzilmia/tanzilmia/blob/main/github%20banner.png)
+#### A Full Stact Web developer
+![A Full Stact Web developer](https://github.com/tanzilmia/tanzilmia/blob/main/github%20banner.png)
 
-Hello, I am Tanzil A Frontend web developer in Bangladesh 
+Hello, I am Tanzil A Full Stact Web developer in Bangladesh 
 Contact: tanzilmia321@gmail.com
 
-Skills:  REACT / JS / HTML / CSS / BOOTSTARP
+Skills:  REACT / JS / HTML / CSS / BOOTSTARP / Firebase / Node Js / Express js / Tailwind Css / REST API / MongoDB
 
 
 
