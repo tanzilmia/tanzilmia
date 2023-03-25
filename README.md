@@ -9,7 +9,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tanzilmia&show_icons=true)
 
-<img align="right" alt="coading" width="400" src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif" >
+<img align="right" alt="coading" width="350" src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif" >
 
 - 👨‍💻 All of my projects are available at [https://portfolio-tanzil.netlify.app/](https://portfolio-tanzil.netlify.app/)
 
