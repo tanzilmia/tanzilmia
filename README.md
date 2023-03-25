@@ -1,40 +1,25 @@
-## Hello, I'm Tanzil 👋
+<h1 align="center">Hi 👋, I'm Md Tanzil Mia</h1>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<img align="right" alt="coading" width="400" src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif" >
 
-### A Full-Stack Web Developer from Bangladesh
 
-I specialize in developing web applications using technologies such as React, JavaScript, HTML, CSS, Bootstrap, Firebase, Node.js, Express.js, Tailwind CSS, REST APIs, and MongoDB. Feel free to contact me at tanzilmia321@gmail.com.
 
-### Skills
+ ![Profile views](https://gpvc.arturio.dev/tanzilmia)
 
-- React
-- JavaScript
-- HTML
-- CSS
-- Bootstrap
-- Firebase
-- Node.js
-- Express.js
-- Tailwind CSS
-- REST APIs
-- MongoDB
 
-### Connect with Me
 
-[<img src='https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white' alt='github' height='30'>](https://github.com/tanzilmia)  [<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='30'>](https://www.linkedin.com/in/mdtanzil/)  [<img src='https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white' alt='facebook' height='30'>](https://www.facebook.com/tanzilmia.01)  [<img src='https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white' alt='instagram' height='30'>](https://www.instagram.com/tanzil.mia/)
+- 👨‍💻 All of my projects are available at [https://portfolio-tanzil.netlify.app/](https://portfolio-tanzil.netlify.app/)
 
-### GitHub Stats
+- 📝 I regularly write articles on [https://tech-blogs-claint.vercel.app/](https://tech-blogs-claint.vercel.app/)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tanzilmia&show_icons=true)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1SqsB_RIp5LjmbEeU5Cyfu3uDtHKMpV1-](https://drive.google.com/drive/folders/1SqsB_RIp5LjmbEeU5Cyfu3uDtHKMpV1-)
 
-### Top Languages
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/tanzilmia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tanzilmia/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/tanzilmia.01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/tanzilmia.01" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@movieexpresshouse1487" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@movieexpresshouse1487" height="30" width="40" /></a>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanzilmia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-### Activity Graph
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tanzilmia)
-
-### Profile Views
-
-![Profile views](https://gpvc.arturio.dev/tanzilmia)
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
