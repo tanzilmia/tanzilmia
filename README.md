@@ -1,16 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm Md Tanzil Mia</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" alt="coading" width="400" src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif" >
-
-
-
  ![Profile views](https://gpvc.arturio.dev/tanzilmia)
 
 ### GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tanzilmia&show_icons=true)
 
+<img align="right" alt="coading" width="400" src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif" >
 
 - 👨‍💻 All of my projects are available at [https://portfolio-tanzil.netlify.app/](https://portfolio-tanzil.netlify.app/)
 
